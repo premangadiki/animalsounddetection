@@ -1,0 +1,22 @@
+.div1,.div2{
+    background-color: rgb(253, 0, 0);
+}
+
+.h3-1,.h5-1,.h3-2{
+    color:aqua;
+}
+
+
+.body1{
+    background-color: aqua;
+}
+
+.Image{
+    border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+
+body{
+    background-color: rgb(82, 156, 82);
+}
